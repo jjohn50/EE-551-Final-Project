@@ -21,10 +21,10 @@ class SA(object):
         For the sake of protection for this program, I will need to delete the consumer key, consumer secret, etc before uploading to github
         '''
         # keys and tokens from the Twitter Dev Console 
-        consumer_key = 'ebEvVT8o3cs3C21UBxKAZF9BJ'
-        consumer_secret = '1281ak3m45XuX9nYHuIDxMFRerVwrT1Lj4JXdOGJNVu1aYw71e'
-        access_token = '1336373971898560516-IPYXFdQUydWOB9rnjEIdeKLguTlTTA'
-        access_token_secret = 'qFU6BPvQi2kaoCL9pik8xjokAmvjSFrseAPeniNEsNHET'
+        consumer_key = ''
+        consumer_secret = ''
+        access_token = ''
+        access_token_secret = ''
   
         # standard attempt authentication 
         try: 
